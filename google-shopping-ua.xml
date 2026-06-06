@@ -10,7 +10,8 @@ xmlns:g="http://base.google.com/ns/1.0">
 <link>https://m-way.com.ua</link>
 
 <description>M-WAY Google Shopping Feed</description>
-
+<g:country>UA</g:country>
+<g:language>uk</g:language>
 <item>
 <g:id>121609</g:id>
 
